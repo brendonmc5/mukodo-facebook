@@ -27,7 +27,7 @@
 <body>
     <div class="container">
         <h1>Ez az új oldal!</h1>
-        <a href="dashboard.html">Vissza</a>
+        <a href="Login.html">Vissza</a>
     </div>
 </body>
 </html>
